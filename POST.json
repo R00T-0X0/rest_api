@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "method": "POST",
+    "message": "Data received successfully",
+    "headers": {
+        "Host": "localhost",
+        "Connection": "keep-alive",
+        "Content-Length": "71",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "Authorization": "bashar 1356546",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Not-A.Brand\";v=\"99\", \"Google Chrome\";v=\"157\", \"Chromium\";v=\"157\"",
+        "Content-Type": "application/json",
+        "sec-ch-ua-mobile": "?0",
+        "Accept": "*/*",
+        "Origin": "http://localhost",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "http://localhost/php%20assignment/rest_api/index.php",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "PHPSESSID=2a2e62430259c87bfb09630a01ab44da"
+    },
+    "authorization": "bashar 1356546",
+    "data": {
+        "name": "Bashar",
+        "email": "Mohammed AbouHadhoud@gmail.com"
+    }
+}
